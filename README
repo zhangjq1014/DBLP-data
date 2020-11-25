@@ -1,1 +1,7 @@
 This project contains several source data sets about conferenecs data, including chairs information and CCF ranking list.
+
+conferences_ccf.csv lists the CCF recommending conferences
+
+program_chairs.csv lists PC chairs of 93 conferences
+
+
