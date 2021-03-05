@@ -1,0 +1,1 @@
+Firstly, after downling the DBLP XML file, please run parse.py. It will extract the publications from the conferences in CCF ranking. And it will output the results to a file proceedings.csv.
