@@ -2,11 +2,11 @@ Firstly, after downling the DBLP XML file, please run parse.py.
 It will extract the publications from the conferences in CCF ranking. And it will output the results to a file proceedings.csv.
 
 
-Then the All_authors contains 4 different analysis of the co-author networks.
+Then the All_authors folder contains 4 different analysis of the co-author networks.
 1. Conf_degree   -> Average degree of the networks
 2. Conf_giant    -> The size of the giant component of the conferences in 2020.
 3. Conf_newauthors -> The ratio of the papers from newauthors, temporally analyzed until 2020.
 4. Conf_giant_with_time   -> Average size of GC of different conference levels by time.
 
-Each folder contains a .py file, it generates a fig and .txt file to store the data.
+Each folder contains a .py file, it generates a figure and .txt file to store the results.
 
