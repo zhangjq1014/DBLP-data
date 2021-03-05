@@ -4,3 +4,6 @@ There are mainly 3 sets of data:
 1. CCF_ranking of CS conferences  -> conferences_ccf.csv
 2. PC chairs information         -> programs_chairs.csv
 3. DBLP data                     -> dblp-2021-01-02.xml (other versions could be download via https://dblp.org/xml/release/)
+
+
+For detailed information please go to DBLP-20 directory.
