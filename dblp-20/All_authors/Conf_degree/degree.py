@@ -25,7 +25,7 @@ ccf.close()
 print (conf_field_level)
 input()
 
-ccf = open('proceedings.csv', 'r')
+ccf = open('../../proceedings.csv', 'r')
 author_conf_dict = {}
 
 conf_user_coauthors = {}
