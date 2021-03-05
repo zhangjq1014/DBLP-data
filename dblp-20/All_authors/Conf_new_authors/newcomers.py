@@ -163,7 +163,7 @@ style_dict = {'A': ['r', 'o'], 'B': ['b', '^'],'C':['g', 'v']}
 
 conf_acc = []
 level_data = {'A': [], 'B': [],'C':[]}
-fout = open('rank_p_in_gc.txt', 'w')
+fout = open('rank_author.txt', 'w')
 for conf, data in sorted(conf_data.items(), key = lambda x: x[1]):
     level = conf_field_level[conf][1]
     if len(data) < 15:
