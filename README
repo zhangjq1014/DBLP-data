@@ -1,7 +1,6 @@
-This project contains several source data sets about conferenecs data, including chairs information and CCF ranking list.
+This project is used to analyze the co-author networks of computer science conferences, incluing PC chairs information.
 
-conferences_ccf.csv lists the CCF recommending conferences
-
-program_chairs.csv lists PC chairs of 93 conferences
-
-
+There are mainly 3 sets of data:
+1. CCF_ranking of CS conferences  -> conferences_ccf.csv
+2. PC chairs information         -> programs_chairs.csv
+3. DBLP data                     -> dblp-2021-01-02.xml (other versions could be download via https://dblp.org/xml/release/)
