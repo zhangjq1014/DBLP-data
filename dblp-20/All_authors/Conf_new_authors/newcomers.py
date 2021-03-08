@@ -58,8 +58,8 @@ while True:
         pages = int(pages)
         if pages < 0:
             pages = pages % 20
-        if pages < 6:
-            continue
+        #if pages < 6:
+        #    continue
 
 
     if not conference_name in conf_user_coauthors:
