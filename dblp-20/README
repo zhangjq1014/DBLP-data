@@ -10,3 +10,8 @@ Then the All_authors folder contains 4 different analysis of the co-author netwo
 
 Each folder contains a .py file, it generates a figure and .txt file to store the results.
 
+
+And Chair_metrics contains the computation of 3 chair relevant metrices.
+1. Neighbour_acceptance   -> Pcap
+2. Neighbour_gc           -> Ipaper-community
+3. Neighbour_score        -> RDpaper-chair
