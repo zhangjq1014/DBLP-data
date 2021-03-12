@@ -25,7 +25,7 @@ while True:
     conf_field_level[acronym] = [field, level]
 ccf.close()
 
-ccf = open('../proceedings.csv', 'r')
+ccf = open('../../proceedings.csv', 'r')
 author_conf_dict = {}
 
 conf_user_coauthors = {}
