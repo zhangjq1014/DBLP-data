@@ -1,4 +1,5 @@
 This project is used to analyze the co-author networks of computer science conferences, incluing PC chairs information.
+A ranking of 93 conferences with PC chairs information is listed here (base on the data end in 2021-01-02, dblp-2021-01-02.xml).
 
 There are mainly 3 sets of data:
 1. CCF_ranking of CS conferences  -> conferences_ccf.csv
