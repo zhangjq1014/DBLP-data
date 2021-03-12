@@ -1,0 +1,3 @@
+Here are 3 directories that are used to compute the 3 metrics: Pcap, RDpaper-chair and Ipaper-community.
+First, please run read_distance.py to read the distances and a file named conf_year_dis.txt will be created.
+Then go to each directory to run the .py file to compute each of the metric.
